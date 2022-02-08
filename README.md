@@ -29,3 +29,10 @@ python3 sync.py U1 U2 hammer saw --INPUT-DIR data/unmixed --OUTPUT-DIR data/mixe
 ```
 
 ### Augmenting Acoustic Signatures
+
+Input the audio files and the coordinates in the code (comments are provided inline). The output will be the name of the `audio_<activity>_<distance to mic>.wav`. The activity will be the activity which is having a varying distance from the microphone.
+
+To generate the augmented audio, run:
+```
+python3 room_audio.py
+```
