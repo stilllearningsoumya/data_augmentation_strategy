@@ -36,3 +36,8 @@ To generate the augmented audio, run:
 ```
 python3 room_audio.py
 ```
+### Samples
+
+IMU samples present in the directory: `data/unmixed/` (for unmixed) and `data/mixed/` (for synchronized with the script).
+
+Audio samples present in the directory: `sources`
