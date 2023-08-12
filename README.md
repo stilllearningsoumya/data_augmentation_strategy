@@ -41,3 +41,18 @@ python3 room_audio.py
 IMU samples present in the directory: `data/unmixed/` (for unmixed) and `data/mixed/` (for synchronized with the script).
 
 Audio samples present in the directory: `sources`
+
+## Reference
+
+If you find this work helpful in your research, please consider citing our paper.
+
+BibTex Reference:
+```
+@INPROCEEDINGS{9826061,
+  author={Chatterjee, Soumyajit and Singh, Arun and Mitra, Bivas and Chakraborty, Sandip},
+  booktitle={2022 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)}, 
+  title={Poster Abstract: Realistic Multiuser, Multimodal (IMU, Acoustic) HAR Data Generation through Single User Data Augmentation}, 
+  year={2022},,
+  pages={533-534},
+  doi={10.1109/IPSN54338.2022.00067}}
+```
